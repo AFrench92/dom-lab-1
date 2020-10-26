@@ -9,3 +9,11 @@
   align-items: center;
   justify-content: center;
 }
+
+.light-bulb {
+  background-color: grey;
+}
+
+.light {
+  background-color: white;
+}
