@@ -1,0 +1,11 @@
+.coin-shape {
+  display: flex;
+  background-color: grey;
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+  border: 2px solid black;
+  padding: 5px;
+  align-items: center;
+  justify-content: center;
+}
